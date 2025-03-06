@@ -19,7 +19,9 @@ git pull origin 브렌치이름
 
 이렇게 해줬다.  
 
-
+아래걸로 처리
+ git pull origin main --rebase  
+Successfully rebased and updated refs/heads/main.  
 
 # signaling-server-v25
 ## 초기 주요 명령
