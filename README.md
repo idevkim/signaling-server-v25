@@ -34,4 +34,4 @@ Successfully rebased and updated refs/heads/main.
   180  git branch -v  
   181  git push origin main  
 
-## 
+## V1에서 수정
